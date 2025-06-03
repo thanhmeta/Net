@@ -22,7 +22,7 @@
         <Top>0.08208in</Top>
         <Left>0.12375in</Left>
         <Height>0.25in</Height>
-        <Width>3in</Width>
+        <Width>7in</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -46,14 +46,16 @@
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox2</rd:DefaultName>
         <Top>0.45361in</Top>
-        <Left>2.80083in</Left>
+        <Left>0.12375in</Left>
         <Height>0.25in</Height>
-        <Width>2.20833in</Width>
+        <Width>7in</Width>
         <ZIndex>1</ZIndex>
         <Style>
           <Border>
@@ -83,14 +85,16 @@
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox3</rd:DefaultName>
         <Top>0.7175in</Top>
-        <Left>2.80083in</Left>
+        <Left>0.12375in</Left>
         <Height>0.25in</Height>
-        <Width>2.46875in</Width>
+        <Width>7in</Width>
         <ZIndex>2</ZIndex>
         <Style>
           <Border>
@@ -429,7 +433,7 @@
         <Top>1.81472in</Top>
         <Left>0.12375in</Left>
         <Height>0.25in</Height>
-        <Width>2.30208in</Width>
+        <Width>7in</Width>
         <ZIndex>4</ZIndex>
         <Style>
           <Border>
@@ -779,7 +783,7 @@
         <Top>2.85639in</Top>
         <Left>0.12375in</Left>
         <Height>0.25in</Height>
-        <Width>2.30208in</Width>
+        <Width>7in</Width>
         <ZIndex>6</ZIndex>
         <Style>
           <Border>
@@ -1319,14 +1323,16 @@
                   <Style />
                 </TextRun>
               </TextRuns>
-              <Style />
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox38</rd:DefaultName>
           <Top>0.11333in</Top>
-          <Left>3.12375in</Left>
+          <Left>0.12375in</Left>
           <Height>0.25in</Height>
-          <Width>1in</Width>
+          <Width>7in</Width>
           <Style>
             <Border>
               <Style>None</Style>

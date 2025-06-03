@@ -22,7 +22,7 @@
         <Top>0.05083in</Top>
         <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>3in</Width>
+        <Width>6in</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -46,14 +46,16 @@
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox2</rd:DefaultName>
         <Top>0.37028in</Top>
-        <Left>1.92583in</Left>
+        <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>2.42708in</Width>
+        <Width>6in</Width>
         <ZIndex>1</ZIndex>
         <Style>
           <Border>
@@ -77,14 +79,16 @@
                 <Style />
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox3</rd:DefaultName>
-        <Top>0.66195in</Top>
-        <Left>1.92583in</Left>
+        <Top>0.64806in</Top>
+        <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>2.42708in</Width>
+        <Width>6in</Width>
         <ZIndex>2</ZIndex>
         <Style>
           <Border>
@@ -570,7 +574,7 @@
         <Top>1.91194in</Top>
         <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>1.48958in</Width>
+        <Width>6in</Width>
         <ZIndex>4</ZIndex>
         <Style>
           <Border>
@@ -854,7 +858,7 @@
         <Top>2.905in</Top>
         <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>1.61458in</Width>
+        <Width>6in</Width>
         <ZIndex>6</ZIndex>
         <Style>
           <Border>
@@ -1193,7 +1197,7 @@
         <Top>3.94667in</Top>
         <Left>0.16542in</Left>
         <Height>0.25in</Height>
-        <Width>2.67708in</Width>
+        <Width>6in</Width>
         <ZIndex>8</ZIndex>
         <Style>
           <Border>
@@ -1503,7 +1507,7 @@
         <DataSetName>DataSet2</DataSetName>
         <Top>4.22444in</Top>
         <Left>0.16542in</Left>
-        <Height>0.51042in</Height>
+        <Height>0.5in</Height>
         <Width>4in</Width>
         <ZIndex>9</ZIndex>
         <Style>
@@ -1535,14 +1539,16 @@
                   <Style />
                 </TextRun>
               </TextRuns>
-              <Style />
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox40</rd:DefaultName>
           <Top>0.05556in</Top>
-          <Left>2.44667in</Left>
+          <Left>0.16542in</Left>
           <Height>0.25in</Height>
-          <Width>1in</Width>
+          <Width>6in</Width>
           <Style>
             <Border>
               <Style>None</Style>
